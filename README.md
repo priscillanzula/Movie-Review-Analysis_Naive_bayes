@@ -1,7 +1,7 @@
 # Movie Review Sentiment Analysis (Naïve Bayes)
 
 A web-based sentiment classifier built from scratch using a Multinomial Naïve Bayes algorithm.  
-Enter any movie review—get an instant classification (Positive / Negative) with probability scores.
+Enter any movie reviewto get an instant classification (Positive / Negative) with probability scores.
 
 
 #### Project Overview
@@ -56,28 +56,22 @@ Navigate to http://127.0.0.1:5000/form, input your review, and see the sentiment
 
 
 
+https://github.com/user-attachments/assets/2f664e16-09b5-446b-bd6e-5ff7b1eb91c9
+
+
+
 
 #### Why This Project Matters
 
-Built from scratch – no black-box libraries, you can learn how Naïve Bayes works under the hood.
+  - Built from scratch – no black-box libraries, you can learn how Naïve Bayes works under the hood.
 
-Compact and interpretable – easy to understand and modify.
+  - Compact and interpretable – easy to understand and modify.
 
-Educational value – ideal baseline for text classification tasks.
+  - Educational value – ideal baseline for text classification tasks.
 
-Lightweight & fast – suitable for deployment as a standalone web app.
+  - Lightweight & fast – suitable for deployment as a standalone web app.
 
-#### Future Improvements
 
-Preserve negations (not, never) in preprocessing
-
-Add n-gram support (e.g., bigrams such as "not good")
-
-Implement feature selection or dimensionality reduction
-
-Introduce hyperparameter tuning or cross-validation
-
-Containerize using Docker and deploy on cloud platforms (e.g., Render, Heroku)
 
 #### License & Contact
 
