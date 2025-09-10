@@ -30,7 +30,7 @@ Enter any movie reviewto get an instant classification (Positive / Negative) wit
 
 
 
-#### Getting Started
+#### To Get Started
 
 1. Clone the repository
 ```
@@ -73,6 +73,6 @@ https://github.com/user-attachments/assets/2f664e16-09b5-446b-bd6e-5ff7b1eb91c9
 
 
 
-#### License & Contact
+#### License 
 
 © 2025 Priscilla Nzula 
