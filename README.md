@@ -6,27 +6,27 @@ Enter any movie reviewto get an instant classification (Positive / Negative) wit
 
 #### Project Overview
 
-Algorithm: Multinomial Naïve Bayes
+ 1. Algorithm: Multinomial Naïve Bayes
 
-Preprocessing:
+ 2. Preprocessing:
 
-Lowercasing, HTML and punctuation removal
+    - Lowercasing, HTML and punctuation removal
 
-Tokenization (split on spaces)
+    - Tokenization (split on spaces)
 
-Stopword removal using a custom list
+    - Stopword removal using a custom list
 
-#### Training Pipeline:
+3. Training Pipeline:
 
-Calculates class priors and per-word likelihoods with Laplace smoothing (α = 1.0)
+    - Calculates class priors and per-word likelihoods with Laplace smoothing (α = 1.0)
 
-Uses log-space computations for numerical stability
+    - Uses log-space computations for numerical stability
 
-#### Web Interface:
+4.  Web Interface:
 
-Clean, minimal HTML form to enter reviews
+    - Clean, minimal HTML form to enter reviews
 
-Result page shows the final sentiment (colored Positive / Negative), probability scores, and a "Try Again" button
+    - Result page shows the final sentiment (colored Positive / Negative), probability scores, and a "Try Again" button
 
 
 
